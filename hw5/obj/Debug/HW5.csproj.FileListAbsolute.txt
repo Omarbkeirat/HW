@@ -1,0 +1,11 @@
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\bin\Debug\Lecture 17.exe.config
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\bin\Debug\Lecture 17.exe
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\bin\Debug\Lecture 17.pdb
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\HW5.csproj.AssemblyReference.cache
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\HW5.csproj.SuggestedBindingRedirects.cache
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\Lecture_17.frmEditor.resources
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\Lecture_17.Properties.Resources.resources
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\HW5.csproj.GenerateResource.cache
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\Lecture 17.exe
+C:\Users\rakan\Downloads\dgsjkhf\VPCourseProjectsHw5-master\Lecture 17\obj\Debug\Lecture 17.pdb
